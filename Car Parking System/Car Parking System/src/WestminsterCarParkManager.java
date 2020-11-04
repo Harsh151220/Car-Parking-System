@@ -12,7 +12,7 @@ public class WestminsterCarParkManager implements CarParkManager {
 
 	public static void main(String[] args) {
 		System.out.println(" ---------------------------------------------");
-		System.out.println(" |********-Car Park Management System-********|");
+		System.out.println(" |********-Car Park System-********|");
 		System.out.println(" ---------------------------------------------\n");
 		displayLogin();//redirected to the displayLogin method
 	}
